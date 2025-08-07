@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abha28" alt="abha28" /></a> </p>
 
-- Ask me about **React, NodeJS, Typescript and everything in between**
+- 💭 Ask me about **React, NodeJS, Typescript and everything in between**
 
-- Email **shuklaabha272804@gmail.com**
+- 📩 Email **shuklaabha272804@gmail.com**
 
-- Fun fact **I think nano is great (I use VIM btw)**
+- 😸 Fun fact **I think nano is great (I use VIM btw)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
