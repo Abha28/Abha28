@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Customer Relationship Management**
 
-- 💬 Ask me about **Business Applications & Database Security**
+- 💬 Ask me about **Business Applications & Databases**
 
-- 📫 How to reach me **shuklaabha272804@gmail.com**
+- 📫 How to reach me: **shuklaabha272804@gmail.com**
 
 - ⚡ Fun fact **I think NANO is cool (I use VIM btw)**
 
