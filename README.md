@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Customer Relationship Management**
 
-- 💬 Ask me about **Business Applications & Databases**
+- 💬 Ask me about **Business Applications & Database Security**
 
 - 📫 How to reach me: **shuklaabha272804@gmail.com**
 
